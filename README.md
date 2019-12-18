@@ -1,2 +1,3 @@
 # d2l-book-sagemaker
-Notebooks for Sagemaker
+
+Automatically generated notebooks, please don't edit directly. 
